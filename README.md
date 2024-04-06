@@ -61,3 +61,9 @@ This portfolio showcases my data science projects, which I have worked on as par
 + Skill demonstrated: Use of regular expressions, Data cleaning
 + Link to project: [Audible Dataset Cleaning](https://github.com/KonradLip/Portfolio/tree/dc33f55475aa0067deb98695c07c7a381962979d/Data%20Cleaning/Audible%20Dataset%20Cleaning)
 
+  ### Project 10: Melanoma Detection
+  + Description: The goal of this project was to create a model that is able to accurately predict whether a mole on the skin is cancerous or not
+  + Tools: Python, Jupyter Notebook, keras, ImageDataGenerator
+  + Skill demonstrated: Computer vision, Images preprocessing, Evaluation of image classification model
+  + Link to project: [Melanoma Detection](https://github.com/KonradLip/Portfolio/blob/5920aece9bfa32508b3aa9e5bed59809ba4060cf/Machine%20Learning/Deep%20learning/Melanoma_detection.ipynb)
+
