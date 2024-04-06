@@ -55,3 +55,9 @@ This portfolio showcases my data science projects, which I have worked on as par
 + Skill demonstrated: Preparing data for image recognition, Building CNN models for 2 classes, Evaluating and visualizing the image recognition model results
 + Link to project: [Machine Learning/Deep learning/cats_vs_dogs](https://github.com/KonradLip/Portfolio/tree/master/Machine%20Learning/Deep%20learning/cats_vs_dogs)
 
+### Project 9: Audible Dataset Cleaning
++ Description: The aim of this data cleaning project was to showcase the data cleaning skills and clean the data so that it is more readable and useful for further analysis
++ Tools: Python, pandas, regex
++ Skill demonstrated: Use of regular expressions, Data cleaning
++ Link to project: [Audible Dataset Cleaning](https://github.com/KonradLip/Portfolio/tree/dc33f55475aa0067deb98695c07c7a381962979d/Data%20Cleaning/Audible%20Dataset%20Cleaning)
+
