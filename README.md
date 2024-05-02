@@ -67,3 +67,9 @@ This portfolio showcases my data science projects, which I have worked on as par
 + Skill demonstrated: Computer vision, Images preprocessing, Evaluation of image classification model
 + Link to project: [Melanoma Detection](https://github.com/KonradLip/Portfolio/blob/5920aece9bfa32508b3aa9e5bed59809ba4060cf/Machine%20Learning/Deep%20learning/Melanoma_detection.ipynb)
 
+### Project 11: Netflix Data Visualization
++ Description: The purpose of this project is to demonstrate the Netflix data and find interesting insights about it using Plotly
++ Tools: Python, Plotly, pandas
++ Skill demonstrated: Use of Plotly and creating a compelling visualizations
++ Link to project: [Netflix Data Visualization](https://github.com/KonradLip/Portfolio/blob/1dae8f061a7c86f186cfaa0b2e2f406edd03f37e/Data%20Visualization/Netflix%20Data%20Visualization/Netflix_Data_Visualization.ipynb)
+
