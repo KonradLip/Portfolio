@@ -73,3 +73,9 @@ This portfolio showcases my data science projects, which I have worked on as par
 + Skill demonstrated: Use of Plotly and creating a compelling visualizations
 + Link to project: [Netflix Data Visualization](https://github.com/KonradLip/Portfolio/blob/1dae8f061a7c86f186cfaa0b2e2f406edd03f37e/Data%20Visualization/Netflix%20Data%20Visualization/Netflix_Data_Visualization.ipynb)
 
+### Project 12: ASL detection
++ Description: This project aims to create a model that recognizes the American sign language and is able to tell what letter and number each sign represents
++ Tools: Python, ImageNet, Jupyter Notebook
++ Skill demonstrated: Using transfer learning to create an accurate model
++ Link to project: [ASL - Transfer Learning](https://github.com/KonradLip/Portfolio/blob/4c4db587861b5c7e498faa75f4457f91699dc0e0/Machine%20Learning/Deep%20learning/ASL_Transfer_Learning.ipynb)
+
